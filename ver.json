@@ -1,0 +1,4 @@
+[vagrant@node ~]$ cat /tmp/ver.json
+{
+  "version": "145d"
+}
